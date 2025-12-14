@@ -1,9 +1,5 @@
 # Linux Commands Assignment
 
-## Student Details
-- Name: Vishal Prajapati
-- Course: Linux Basics
-
 ## Contents
 - File and Directory Operations
 - Viewing File Contents
